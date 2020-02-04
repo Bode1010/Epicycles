@@ -1,0 +1,9 @@
+(((t*t*t)*(-a + 3 * b - 3 * c + d) + (t*t)*(3 * a - 6 * b + 3 * c) + (t)*(-3 * a + 3 * b) + a) + i((t*t*t)*(-k + 3 * f - 3 * g + h) + (t*t)*(3 * k - 6 * f + 3 * g) + (t)*(-3 * k + 3 * f) + k))*e^(int)
+
+(((x*x*x)*(-a + 3 * b - 3 * c + d) + (x*x)*(3 * a - 6 * b + 3 * c) + (x)*(-3 * a + 3 * b) + a) + i((x*x*x)*(-k + 3 * f - 3 * g + h) + (x*x)*(3 * k - 6 * f + 3 * g) + (x)*(-3 * k + 3 * f) + k))*e^(inx)
+
+antiderivative:
+(((-k+h-3*g+3*f+i*(-d+3*c-3*b+a))*t^3+3*(k+g-2*f+i*(-c+2*b-a))*t^2-3*(k-f+i*(b-a))*t+k-i*a)*e^(i*n*t))/n+(3*i*((-k+h-3*g+3*f-i*d+3*i*c-3*i*b+i*a)*t^2+2*(k+g-2*f-i*c+2*i*b-i*a)*t-k+f-i*b+i*a)*e^(i*n*t))/n^2-(6*((-k+h-3*g+3*f-i*d+3*i*c-3*i*b+i*a)*t+k+g-2*f-i*c+2*i*b-i*a)*e^(i*n*t))/n^3+(6*i*(k-h+3*g-3*f+i*d-3*i*c+3*i*b-i*a)*e^(i*n*t))/n^4
+
+antiderivative(better*):
+-(((k-h+3*g-3*f+i*(d-3*c+3*b-a))*n^3*t^3-3*n^2*(k*n+g*n-2*f*n-i*c*n+2*i*b*n-i*a*n-i*k+i*h-3*i*g+3*i*f+d-3*c+3*b-a)*t^2+3*n*(k*n^2-f*n^2+i*b*n^2-i*a*n^2-2*(c*n-2*b*n+a*n+i*d-3*i*c+3*i*b-i*a)+2*f*(2*i*n+3)-2*g*(i*n+3)-2*i*k*n-2*k+2*h)*t-(k-i*a)*n^3+3*(i*(k-f)-b+a)*n^2+6*(k+g-2*f-i*(c-2*b+a))*n-6*i*k+6*i*h-18*i*g+18*i*f+6*d-18*c+18*b-6*a)*e^(i*n*t))/n^4

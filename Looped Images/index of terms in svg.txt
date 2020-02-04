@@ -1,0 +1,12 @@
+https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths
+terms used in angel copy
+m - move to 
+l line
+h
+v
+z draw line from here to orig pos
+c beizer curve
+s multiple beizers at once
+q
+t
+a
